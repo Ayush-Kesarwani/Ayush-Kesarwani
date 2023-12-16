@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush-Kesarwani
-- 👀 I’m interested in Web Developing and Data Science.
-- 🌱 I’m currently learning Web Developing and Data Science.
+- 👀 I’m interested in Data Analysis and Machine Learning.
+- 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
